@@ -1,5 +1,5 @@
 **Michal Pasierbski**;  
-location: 6314 Unterageri, Switzerland    
+location: 6314 Unterageri, Switzerland;    
 mobile: +41 076 295 38 84;  
 email: [mpasierbski@gmail.com](mailto:mpasierbski@gmail.com);   
 twitter: [@mpasierbski](https://twitter.com/mpasierbski);   
@@ -49,7 +49,7 @@ github: [pasierb](https://github.com/pasierb);
   - English - fluent;
   - German - begginer;
   - Swiss German - can order a beer;
-- dog lover (happily have one as a part of family)
+- dog lover (happily have one as a part of family);
 - gamer (mostly FPS shooters, e.g., Destiny, Battlefield);
 - basketball player (currently playing for [LK Zug](http://www.lkz-basketball.ch/) in 1. Liga regional);
 - might-have-been archaeologist;
