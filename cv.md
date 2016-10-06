@@ -8,18 +8,18 @@ github: [pasierb](https://github.com/pasierb);
 
 
 
-Experience;
------------
+## Experience;
 
 // *01.2014 - present*  
 // *Wroclaw, Poland -> Alicante, Spain -> Zug, Switzerland*
-#### Chief software architect, Ruby/JavaScript developer at [IS Engineering AG](http://isengineering.com);
+#### Chief software architect, Ruby/JavaScript developer at [IS Engineering AG](http://isengineering.com); ###
 
 - Design, implementation and deployment of industry used applications;
   - IQScan - productio line supervisory system  (PostgreSQL, Redis, Ruby on Rails, AngularJs);
   - IQTrack - data consolidation / aggregation / mining layer  (PostgreSQL, Ruby on Rails, Backbone -> AngularJs);
 - connecting to external data sources (SCADA systems, machines, services, etc.) for data aggregation (JRuby, Python);
----
+
+***
 
 // *10.2010 - 08.2013*  
 // *Wroclaw, Poland*
@@ -28,7 +28,8 @@ Experience;
 - design, implementation and deployment of live data feed module for [Sharewise](https://www.sharewise.com/us/) (Redis, NodeJS);
 - development of mobile web version of [Sharewise](https://www.sharewise.com/us/) (PostgreSQL, Ruby on Rails, JQuery mobile);
 - major refactoring of JavaScript part of application, rewriting old obtrusive code to reusable, modular components for [Sharewise](https://www.sharewise.com/us/) (AngularJs early adopters);
----
+
+***
 
 
 // *05.2009 - 10.2010*  
@@ -39,10 +40,10 @@ Experience;
 - development of social platform module for [Wrocław University of Science and Technology](http://pwr.edu.pl/en/) (PostgreSQL, Java);
 - development of planning and maintenance module for ERP system (PostgreSQL, Java);
 - maintenance (bug fixing, adding features) of fleet management system (PostgreSQL, Java);
----
 
-Additional skills and interests;
---------------------------------
+***
+
+## Additional skills and interests;
 
 - languages:
   - English - fluent;
