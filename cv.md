@@ -51,6 +51,6 @@ github: [pasierb](https://github.com/pasierb);
   - Swiss German - can order a beer;
 - dog lover (happily have one as a part of family);
 - gamer (mostly FPS shooters, e.g., Destiny, Battlefield);
-- basketball player (currently playing for [LK Zug](http://www.lkz-basketball.ch/) in 1. Liga regional);
+- basketball player (played for [LK Zug](http://www.lkz-basketball.ch/) in 1. Liga regional);
 - might-have-been archaeologist;
 - nerd;
