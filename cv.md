@@ -14,10 +14,11 @@ github: [pasierb](https://github.com/pasierb);
 // *Wroclaw, Poland -> Alicante, Spain -> Zug, Switzerland*
 #### Chief software architect, Ruby/JavaScript developer at [IS Engineering AG](http://isengineering.com); ###
 
-- Design, implementation and deployment of industry used applications;
-  - IQScan - productio line supervisory system  (PostgreSQL, Redis, Ruby on Rails, AngularJs);
-  - IQTrack - data consolidation / aggregation / mining layer  (PostgreSQL, Ruby on Rails, Backbone -> AngularJs);
+- Design, implementation and deployment of industry used applications - IQ platform, collection of plug-and-play modules (Rails engines) i.e. Analytics engine (data collection and aggregation), Workshop, Quality control, Production;
+  - IQScan - production line supervisory system  (Ruby on Rails 4.x -> 5.x, PostgreSQL, Redis, ElasticSearch, AngularJs 1.x -> VueJs 2.x);
+  - IQTrack - data consolidation / aggregation / mining layer  (Ruby on Rails 4.x -> 5.x, PostgreSQL, ElasticSearch, Backbone -> AngularJs 1.x -> VueJs 2.x);
 - connecting to external data sources (SCADA systems, machines, services, etc.) for data aggregation (JRuby, Python);
+  - SOA, microservices + central broker
 
 ***
 
