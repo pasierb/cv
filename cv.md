@@ -43,15 +43,15 @@ github: [pasierb](https://github.com/pasierb);
 
 // *2007 - 2009*  
 // *Wroclaw, Poland*
-### Higher School of information Technology and Management "COPERNICUS" in Wroclaw
-Information Technology
+### Higher School of information Technology and Management "COPERNICUS" in Wroclaw;
+Information Technology;
 
 ***
 
 // *2001 - 2003*
 // *Wroclaw, Poland*
-### University of Wroclaw
-Archeology
+### University of Wroclaw;
+Archeology;
 
 ## Additional skills and interests;
 
