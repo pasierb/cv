@@ -6,8 +6,6 @@ twitter: [@mpasierbski](https://twitter.com/mpasierbski);
 github: [pasierb](https://github.com/pasierb);  
 33 years old, always looking to improve and find more efficient ways to solve problems.;
 
-
-
 ## Experience;
 
 // *01.2014 - present*  
@@ -32,7 +30,6 @@ github: [pasierb](https://github.com/pasierb);
 
 ***
 
-
 // *05.2009 - 10.2010*  
 // *Wroclaw, Poland*
 #### Java developer at [CMS Mirage sp. z o.o.](http://www.cmsmirage.pl/);
@@ -42,7 +39,19 @@ github: [pasierb](https://github.com/pasierb);
 - development of planning and maintenance module for ERP system (PostgreSQL, Java);
 - maintenance (bug fixing, adding features) of fleet management system (PostgreSQL, Java);
 
+## Education;
+
+// *2007 - 2009*  
+// *Wroclaw, Poland*
+### Higher School of information Technology and Management "COPERNICUS" in Wroclaw
+Information Technology
+
 ***
+
+// *2001 - 2003*
+// *Wroclaw, Poland*
+### University of Wroclaw
+Archeology
 
 ## Additional skills and interests;
 
