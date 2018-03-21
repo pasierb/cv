@@ -4,19 +4,29 @@ mobile: +41 076 295 38 84;
 email: [mpasierbski@gmail.com](mailto:mpasierbski@gmail.com);   
 twitter: [@mpasierbski](https://twitter.com/mpasierbski);   
 github: [pasierb](https://github.com/pasierb);  
-33 years old, always looking to improve and find more efficient ways to solve problems.;
+35 years old, father, husband, basketball player, always looking to improve and find more efficient ways to solve problems.;
 
 ## Experience;
 
-// *01.2014 - present*  
+// *12.2017 - present*  
+// *Lucerne, Switzerland*
+#### Senior JavaScript developer at [EF](http://www.ef.com);
+
+- Bridging the gap between number of API's and user interface;
+- Making dev team happy with best possible development environment (Docker, ES6, babel, webpack, HMR etc.);
+- Writing performant, reusable and testable UI components (Vue.js, React);
+
+***
+
+// *01.2014 - 11-2017*  
 // *Wroclaw, Poland -> Alicante, Spain -> Zug, Switzerland*
-#### Chief software architect, Ruby/JavaScript developer at [IS Engineering AG](http://isengineering.com); ###
+#### Chief software architect, Ruby/JavaScript developer at [IS Engineering AG](http://isengineering.com);
 
 - Design, implementation and deployment of industry used applications - IQ platform, collection of plug-and-play modules (Rails engines) i.e. Analytics engine (data collection and aggregation), Workshop, Quality control, Production;
   - IQScan - production line supervisory system  (Ruby on Rails 4.x -> 5.x, PostgreSQL, Redis, ElasticSearch, AngularJs 1.x -> VueJs 2.x);
   - IQTrack - data consolidation / aggregation / mining layer  (Ruby on Rails 4.x -> 5.x, PostgreSQL, ElasticSearch, Backbone -> AngularJs 1.x -> VueJs 2.x);
 - connecting to external data sources (SCADA systems, machines, services, etc.) for data aggregation (JRuby, Python);
-  - SOA, microservices + central broker
+  - SOA, microservices + central broker;
 
 ***
 
