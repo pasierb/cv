@@ -1,0 +1,63 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 12pt;
+    padding: 32pt 8pt;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.secondary, .work-period, .study-period {
+    color: #bbb;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul.inline > li {
+    display: inline-block;
+}
+
+section {
+    max-width: 800px;
+    margin: 0 auto 32px auto;
+}
+
+section > header {
+    display: inline-block;
+    width: 20%;
+    padding-right: 4%;
+    vertical-align: top;
+    text-align: right;
+}
+
+section > article {
+    display: inline-block;
+    width: 75%;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid > * {
+    width: 33%;
+}
+
+ul.experience-list > li {
+    margin-bottom: 40px  ;
+}
+
+@media print {
+    a {
+        color: #000;
+    }
+}
