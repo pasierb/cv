@@ -27,7 +27,8 @@ ul.inline > li {
 
 section {
     max-width: 800px;
-    margin: 0 auto 32px auto;
+    margin: 16px auto 16px auto;
+    border-bottom: 1px solid #eee;
 }
 
 section > header {
