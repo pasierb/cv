@@ -38,6 +38,11 @@ section > header {
     text-align: right;
 }
 
+section > header.sticky {
+    position: sticky;
+    top: 0px;
+}
+
 section > article {
     display: inline-block;
     width: 75%;
@@ -54,6 +59,37 @@ section > article {
 
 ul.experience-list > li {
     margin-bottom: 40px  ;
+}
+
+@media (max-width: 768px) {
+    .grid > * {
+        width: 49%;
+    }
+}
+
+@media (max-width: 480px) {
+    section > header,
+    section > article {
+        width: 100%;
+    }
+
+    section > header {
+        text-align: left;
+    }
+
+    section > header.sticky {
+        position: inherit;
+    }
+
+    h1 > .secondary {
+        display: block;
+    }
+}
+
+@media (max-width: 320px) {
+    .grid > * {
+        width: 100%;
+    }
 }
 
 @media print {
