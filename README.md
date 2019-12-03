@@ -1,76 +1,175 @@
-**Michal Pasierbski**;  
-location: 6314 Unterageri, Switzerland;    
-mobile: +41 076 295 38 84;  
-email: [mpasierbski@gmail.com](mailto:mpasierbski@gmail.com);   
-twitter: [@mpasierbski](https://twitter.com/mpasierbski);   
-github: [pasierb](https://github.com/pasierb);  
-35 years old, father, husband, basketball player, always looking to improve and find more efficient ways to solve problems.;
+Michal Pasierbski
+=================
 
-## Experience;
+*   [https://mpasierbski.com](https://mpasierbski.com)
+*   [https://www.linkedin.com/in/mpasierbski/](https://www.linkedin.com/in/mpasierbski/)
+*   [https://github.com/pasierb](https://github.com/pasierb)
+*   [mpasierbski@gmail.com](mailto:mpasierbski@gmail.com)
 
-// *12.2017 - present*  
-// *Lucerne, Switzerland*
-#### Senior JavaScript developer at [EF](http://www.ef.com);
+Experience
+----------
 
-- Bridging the gap between number of API's and user interface;
-- Making dev team happy with best possible development environment (Docker, ES6, babel, webpack, HMR etc.);
-- Writing performant, reusable and testable UI components (Vue.js, React);
+*   EF Education First Lead software developer
+    ------------------------------------------
+    
+    07.2019 - now, Zurich, Switzerland
+    
+*   R3PI Software development engineer/Front end lead
+    -------------------------------------------------
+    
+    Leading 3-man team's development efforts
+    
+    Introduced data-loaders (caching mechanism) to GraphQL middleware, reducing number of roundtrips to external services.
+    
+    Audited and optimized production builds by reducing overal bundle size by 25% and utlizing code splitting.
+    
+    10.2018 - 05.2019, Zurich, Switzerland
+    
+*   EF Education First Senior front end engineer
+    --------------------------------------------
+    
+    Lead 4-man team's JavaScript development efforts, i.e., set standards for unit (Jest) and integration (puppeteer) testing, code conventions and design patterns.
+    
+    Introduced code splitting and asset name hashing to utilize long term caching resulting in significant initial load performance increase and reduced bundle size by 70% on average.
+    
+    Unified team's development environments by introducing and configuring Docker which eliminated bugs caused by development-production environment differences.
+    
+    12.2017 - 09.2018, Luzern, Switzerland
+    
+*   IS Engineering Ruby/Javascript engineer
+    ---------------------------------------
+    
+    Designed and implemented distributed, multi factory (glass plants) data analytics system (Docker, PostgreSQL, MongoDB, NodeJS, Ruby on Rails, Vue.js, Highcharts), successfully commissioned at plants in Ukraine, Brazil, Turkey and Germany.
+    
+    Designed and implemented production line supervisory system as a web app (PostgreSQL, Ruby on Rails, AngularJS, Highcharts) on top of existing Java app, successfully commissioned at plants in Ukraine and Brazil.
+    
+    01.2014 - 11.2017, Zug, Switzerland
+    
+*   PGS Software Javascript developer
+    ---------------------------------
+    
+    Remodeled team's git workflow, which resulted in 6 fold decrease of time needed for release preparation.
+    
+    Automated project's build process by introducing Grunt task runner.
+    
+    09.2013 - 12.2013, Wroclaw, Poland
+    
+*   Sharewise Ruby/Javascript engineer
+    ----------------------------------
+    
+    Implemented "push" service (Websockets, NodeJS, Redis) for existing Ruby on Rails application.
+    
+    Moved lagacy front end code from JqueryUI to AngularJS.
+    
+    Led 3-man team in charge of mobile site version development.
+    
+    02.2011 - 08.2013, Wroclaw, Poland
+    
+*   Starware Ruby/Javascript engineer
+    ---------------------------------
+    
+    Developed REST API (Ruby on Rails) for iOS photo sharing app.
+    
+    09.2010 - 01.2011, Wroclaw, Poland
+    
+*   CMS Mirage JAVA developer
+    -------------------------
+    
+    Implemented e-mail marketing module for Wroclaw University of Science and Technology (PostgreSQL, Java).
+    
+    Implemented social platform module for Wroclaw University of Science and Technology (PostgreSQL, Java).
+    
+    Maintained (bug fixing, adding features) fleet management system (PostgreSQL, Java).
+    
+    05.2009 - 08.2010, Wroclaw, Poland
+    
 
-***
+Skills
+------
 
-// *01.2014 - 11-2017*  
-// *Wroclaw, Poland -> Alicante, Spain -> Zug, Switzerland*
-#### Chief software architect, Ruby/JavaScript developer at [IS Engineering AG](http://isengineering.com);
+Languages
+---------
 
-- Design, implementation and deployment of industry used applications - IQ platform, collection of plug-and-play modules (Rails engines) i.e. Analytics engine (data collection and aggregation), Workshop, Quality control, Production;
-  - IQScan - production line supervisory system  (Ruby on Rails 4.x -> 5.x, PostgreSQL, Redis, ElasticSearch, AngularJs 1.x -> VueJs 2.x);
-  - IQTrack - data consolidation / aggregation / mining layer  (Ruby on Rails 4.x -> 5.x, PostgreSQL, ElasticSearch, Backbone -> AngularJs 1.x -> VueJs 2.x);
-- connecting to external data sources (SCADA systems, machines, services, etc.) for data aggregation (JRuby, Python);
-  - SOA, microservices + central broker;
+*   Javascript/NodeJS
+*   TypeScript
+*   Go
+*   HTML
+*   CSS
+*   Ruby
+*   Java
 
-***
+Frameworks
+----------
 
-// *10.2010 - 08.2013*  
-// *Wroclaw, Poland*
-#### Ruby/JavaScript developer at [Starware](http://www.starware.com.pl/);
+*   Vue
+*   React
+*   AngularJS
+*   Backbone
+*   Ruby on Rails
+*   Express
+*   GraphQL
 
-- design, implementation and deployment of live data feed module for [Sharewise](https://www.sharewise.com/us/) (Redis, NodeJS);
-- development of mobile web version of [Sharewise](https://www.sharewise.com/us/) (PostgreSQL, Ruby on Rails, JQuery mobile);
-- major refactoring of JavaScript part of application, rewriting old obtrusive code to reusable, modular components for [Sharewise](https://www.sharewise.com/us/) (AngularJs early adopters);
+Tools
+-----
 
-***
+*   AWS
+*   Docker
+*   Webpack
+*   Gulp, Grunt
+*   Mocha, Jest, Sinon
+*   Saas, Less
+*   Highcharts, D3
 
-// *05.2009 - 10.2010*  
-// *Wroclaw, Poland*
-#### Java developer at [CMS Mirage sp. z o.o.](http://www.cmsmirage.pl/);
+OS
+--
 
-- development of mailing marketing module for [Wrocław University of Science and Technology](http://pwr.edu.pl/en/) (PostgreSQL, Java);
-- development of social platform module for [Wrocław University of Science and Technology](http://pwr.edu.pl/en/) (PostgreSQL, Java);
-- development of planning and maintenance module for ERP system (PostgreSQL, Java);
-- maintenance (bug fixing, adding features) of fleet management system (PostgreSQL, Java);
+*   Linux (Debian)
+*   OS X
+*   Windows
 
-## Education;
+Databases
+---------
 
-// *2007 - 2009*  
-// *Wroclaw, Poland*
-### Higher School of information Technology and Management "COPERNICUS" in Wroclaw;
-Computer Science;
+*   PostgreSQL
+*   MongoDB
+*   Redis
+*   ElasticSearch
 
-***
+Certificates
+------------
 
-// *2001 - 2003*
-// *Wroclaw, Poland*
-### University of Wroclaw;
-Archeology;
+*   AWS Certified Solutions Architect - Associate
+    ---------------------------------------------
+    
+    Amazon Web Services
+    
+    issued 12.2019 - expires 12.2022
+    
+    Credential ID: [FS7E4PE2HEQ4QR3G](https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=V3P97712KJ1EQTWR)
+    
+*   Mobile Web Specialist
+    ---------------------
+    
+    Google Developers
+    
+    issued 01.2019 - expires 01.2022
+    
+    Credential ID: [12471549](https://www.credential.net/m23rhhsx?key=8f900767955ce28b1273e535a28cab9be368be10bec61e04ed3b00cc31d8dd85)
+    
 
-## Additional skills and interests;
+Education
+---------
 
-- languages:
-  - English - fluent;
-  - German - begginer;
-  - Swiss German - can order a beer;
-- dog lover (happily have one as a part of family);
-- gamer (mostly FPS shooters, e.g., Destiny, Battlefield);
-- basketball player (played for [LK Zug](http://www.lkz-basketball.ch/) in 1. Liga regional);
-- might-have-been archaeologist;
-- nerd;
+*   Higher School of information Technology and Management "COPERNICUS"
+    -------------------------------------------------------------------
+    
+    CS - incomplete (dropped out during 5th semester to focus on full-time job)
+    
+    2007 - 2009
+    
+*   University of Wroclaw
+    ---------------------
+    
+    Archeology - incomplete
+    
+    2001-2003
