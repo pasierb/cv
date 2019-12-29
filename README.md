@@ -11,6 +11,12 @@ Experience
 
 *   EF Education First Lead software developer
     ------------------------------------------
+
+    Leading the implementation of Cloudflare workers handling all EF product pages traffic.
+
+    Leading performance task force team, making sure that new releases are in line with performance thresholds.
+
+    Setting up dev-ops pipelines and consulting infrastructure choices.
     
     07.2019 - now, Zurich, Switzerland
     
