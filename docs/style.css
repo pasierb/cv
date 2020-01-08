@@ -90,11 +90,23 @@ ul.experience-list > li {
 }
 
 @media print {
+    body {
+        padding: 0;
+    }
+
     a {
         color: #000;
     }
 
+    section > header.sticky {
+        position: inherit;
+    }
+
     p {
+        page-break-inside: avoid;
+    }
+
+    .experience-list li {
         page-break-inside: avoid;
     }
 }

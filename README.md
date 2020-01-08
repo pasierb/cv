@@ -14,7 +14,7 @@ Experience
 
     Leading the implementation of Cloudflare workers handling all EF product pages traffic.
 
-    Leading performance task force team, making sure that new releases are in line with performance thresholds.
+    Leading web performance task force team, making sure that new releases are in line with performance thresholds.
 
     Setting up dev-ops pipelines and consulting infrastructure choices.
     
@@ -38,7 +38,7 @@ Experience
     
     Introduced code splitting and asset name hashing to utilize long term caching resulting in significant initial load performance increase and reduced bundle size by 70% on average.
     
-    Unified team's development environments by introducing and configuring Docker which eliminated bugs caused by development-production environment differences.
+    Unified team's development environments by introducing and configuring Docker.
     
     12.2017 - 09.2018, Luzern, Switzerland
     
@@ -46,8 +46,6 @@ Experience
     ---------------------------------------
     
     Designed and implemented distributed, multi factory (glass plants) data analytics system (Docker, PostgreSQL, MongoDB, NodeJS, Ruby on Rails, Vue.js, Highcharts), successfully commissioned at plants in Ukraine, Brazil, Turkey and Germany.
-    
-    Designed and implemented production line supervisory system as a web app (PostgreSQL, Ruby on Rails, AngularJS, Highcharts) on top of existing Java app, successfully commissioned at plants in Ukraine and Brazil.
     
     01.2014 - 11.2017, Zug, Switzerland
     
@@ -74,18 +72,10 @@ Experience
 *   Starware Ruby/Javascript engineer
     ---------------------------------
     
-    Developed REST API (Ruby on Rails) for iOS photo sharing app.
-    
     09.2010 - 01.2011, Wroclaw, Poland
     
 *   CMS Mirage JAVA developer
     -------------------------
-    
-    Implemented e-mail marketing module for Wroclaw University of Science and Technology (PostgreSQL, Java).
-    
-    Implemented social platform module for Wroclaw University of Science and Technology (PostgreSQL, Java).
-    
-    Maintained (bug fixing, adding features) fleet management system (PostgreSQL, Java).
     
     05.2009 - 08.2010, Wroclaw, Poland
     
