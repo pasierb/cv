@@ -94,6 +94,23 @@ ul.experience-list > li {
         padding: 0;
     }
 
+    .grid > * {
+        width: 32%;
+    }
+
+    section {
+        width: 100%;
+    }
+
+    section > header {
+        width: 20%;
+        padding-right: 1%;
+    }
+
+    section > article {
+        width: 78%;
+    }
+
     a {
         color: #000;
     }
