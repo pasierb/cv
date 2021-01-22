@@ -1,3 +1,7 @@
+:root {
+    --contrast-color: #84374f;
+}
+
 body {
     font-family: 'Titillium Web', sans-serif;
     font-size: 12pt;
@@ -5,11 +9,16 @@ body {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
+    color: #111;
+}
+
+a:hover {
+    color: var(--contrast-color);
 }
 
 .secondary, .work-period, .study-period {
-    color: #277492;
+    color: var(--contrast-color);
 }
 
 ul {
