@@ -1,0 +1,26 @@
+{
+  "name": "@mpasierb/cv",
+  "version": "1.0.0",
+  "description": "[https://pasierb.github.io/cv/](https://pasierb.github.io/cv/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node lib/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasierb/cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasierb/cv/issues"
+  },
+  "homepage": "https://github.com/pasierb/cv#readme",
+  "devDependencies": {
+    "handlebars": "^4.7.7",
+    "js-yaml": "^4.0.0"
+  }
+}
