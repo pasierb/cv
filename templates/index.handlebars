@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Michał Pasierbski - CV</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Michal Pasierbski">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <section>
+        <header>
+            <h1>Michał Pasierbski</h1>
+        </header>
+        <article>
+            <ul>
+                <li><a href="https://mpasierbski.com">https://mpasierbski.com</a></li>
+                <li><a href="https://www.linkedin.com/in/mpasierbski/">https://www.linkedin.com/in/mpasierbski/</a></li>
+                <li><a href="https://github.com/pasierb">https://github.com/pasierb</a></li>
+                <li><a href="mailto:mpasierbski@gmail.com">mpasierbski@gmail.com</a></li>
+            </ul>
+        </article>
+    </section>
+
+    <section>
+        <header>
+            <h2>Experience</h2>
+        </header>
+        <article>
+            <ul>
+                {{#each experience}}
+                <li>
+                    <h2>{{company}} <span class="secondary">{{position}}</span></h2>
+
+                    <p class="work-period">{{since}} - {{#if to}}{{to}}{{else}}now{{/if}}, {{location}}</p>
+
+                    {{#each description}}
+                    <p>{{this}}</p>
+                    {{/each}}
+                </li>
+                {{/each}}
+            </ul>
+        </article>
+    </section>
+
+    <section>
+        <header>
+            <h2>Certificates</h2>
+        </header>
+        <article>
+            <ul>
+                {{#each certificates}}
+                <li>
+                    <h2>{{title}}</h2>
+                    <p>{{issuer}}</p>
+                    <p class="study-period">issued {{issued}} - expires {{expires}}</p>
+                    <p>
+                        Credential ID: <a href="{{credentialUrl}}">{{credentialId}}</a>
+                    </p>
+                </li>
+                {{/each}}
+            </ul>
+        </article>
+    </section>
+
+    <section>
+        <header class="sticky">
+            <h2>Education</h2>
+        </header>
+        <article>
+            <ul>
+                {{#each education}}
+                <li>
+                    <h2>{{school}}</h2>
+                    <p>{{major}}</p>
+                    <p class="study-period">{{since}} - {{to}}</p>
+                </li>
+                {{/each}}
+            </ul>
+        </article>
+    </section>
+
+</body>
+
+</html>
