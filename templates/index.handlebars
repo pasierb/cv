@@ -31,7 +31,7 @@
         <header>
             <h2>Experience</h2>
         </header>
-        <article>
+        <article style="page-break-after: always;">
             <ul>
                 {{#each experience}}
                 <li>
@@ -42,6 +42,10 @@
                     {{#each description}}
                     <p>{{this}}</p>
                     {{/each}}
+
+                    <p>
+                        <strong>Technologies:</strong> {{#each technologies}}{{#if @index}}, {{/if}}{{this}}{{/each}}
+                    </p>
                 </li>
                 {{/each}}
             </ul>

@@ -5,11 +5,24 @@ experience:
     location: Berlin, Germany
     position: Software Development Engineer
     since: "08.2020"
+    technologies:
+    - TypeScript
+    - WebdriverIO
+    - AWS
   - company: EF Education First
     location: Zurich, Switzerland
     position: Lead Software Developer
     since: "07.2019"
     to: "07.2020"
+    technologies:
+    - TypeScript
+    - Go
+    - AWS
+    - Terraform
+    - Cloudflare
+    - React
+    - GraphQL
+    - HTML/CSS
     description:
     - Lead the implementation of Cloudflare workers handling all EF product pages traffic.
     - Lead web performance task force team, making sure that
@@ -20,6 +33,13 @@ experience:
     position: Software development engineer/Front end lead
     since: "10.2018"
     to: "05.2019"
+    technologies:
+    - TypeScript
+    - JavaScript
+    - Node.js
+    - React
+    - GraphQL
+    - HTML/CSS
     description:
     - Lead 3-man team's development efforts
     - Introduced data-loaders (caching mechanism) to GraphQL middleware,
@@ -29,6 +49,12 @@ experience:
     position: Senior Front End Engineer
     since: "12.2017"
     to: "09.2018"
+    technologies:
+    - Vue.js
+    - JavaScript
+    - Node.js
+    - Docker
+    - HTML/CSS
     description:
     - Lead 4-man team's JavaScript development efforts, i.e. set standards for unit (Jest), integration testing and code conventions.
     - Introduced code splitting and asset name hashing to utilize long term caching resulting in significant initial load performance increase.
@@ -38,15 +64,27 @@ experience:
     position: Ruby/JavaScript engineer
     since: "01.2014"
     to: "11.2017"
+    technologies:
+    - Ruby on Rails
+    - AngularJS
+    - Vue.js
+    - NodeJS
+    - PostgreSQL
+    - MongoDB
+    - Docker
+    - HTML/CSS
     description:
     - Designed and implemented distributed, multi factory (glass plants) data analytics system
-      (Docker, PostgreSQL, MongoDB, NodeJS, Ruby on Rails, Vue.js, Highcharts),
+      (Docker, PostgreSQL, MongoDB, Node.js, Ruby on Rails, Vue.js, Highcharts),
       successfully commissioned at plants in Ukraine, Brazil, Turkey and Germany.
   - company: PGS Software
     location: Wrocław, Poland
     position: JavaScript Developer
     since: "09.2013"
     to: "12.2013"
+    technologies:
+    - JavaScript
+    - Node.js
     description:
     - Automated project's build process by introducing Grunt task runner.
   - company: Starware/Sharewise
@@ -54,6 +92,13 @@ experience:
     position: Ruby/JavaScript engineer
     since: "09.2010"
     to: "08.2013"
+    technologies:
+    - Ruby on Rails
+    - JavaScript
+    - Node.js
+    - AngularJS
+    - PostgreSQL
+    - Redis
     description:
     - Implemented "push" service (Websockets, NodeJS, Redis) for existing Ruby on Rails application.
     - Moved lagacy front end code from JqueryUI to AngularJS.
@@ -63,6 +108,8 @@ experience:
     position: Java Developer
     since: "05.2009"
     to: "08.2010"
+    technologies:
+    - Java 6
 
 certificates:
   - title: AWS Certified Solutions Architect - Associate
