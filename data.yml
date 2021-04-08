@@ -24,13 +24,11 @@ experience:
     - GraphQL
     - HTML/CSS
     description:
-    - Lead the implementation of Cloudflare workers handling all EF product pages traffic.
-    - Lead web performance task force team, making sure that
-      new releases are in line with performance thresholds.
-    - Lead "Platform" team responsible for product sites architecture and cloud operations.
+    - Designed and led the implementation of Cloudflare workers handling all of EF product pages traffic (~13M requests/day).
+    - Created React version of EF design system, adopted by multiple teams and taken over by central team.
   - company: R3PI
     location: Zurich, Switzerland
-    position: Software development engineer/Front end lead
+    position: Software development engineer/Front-end lead
     since: "10.2018"
     to: "05.2019"
     technologies:
@@ -41,24 +39,23 @@ experience:
     - GraphQL
     - HTML/CSS
     description:
-    - Lead 3-man team's development efforts
-    - Introduced data-loaders (caching mechanism) to GraphQL middleware,
-      reducing number of roundtrips to external services.
+    - Led implementation of CRM client application.
+    - Led implementation of GraphQL API.
   - company: EF Education First
     location: Luzern, Switzerland
     position: Senior Front End Engineer
     since: "12.2017"
     to: "09.2018"
+    description:
+    - Development of POC E-commerce website.
+    - Introduced Dockerized development environment.
     technologies:
+    - React
     - Vue.js
     - JavaScript
     - Node.js
     - Docker
     - HTML/CSS
-    description:
-    - Lead 4-man team's JavaScript development efforts, i.e. set standards for unit (Jest), integration testing and code conventions.
-    - Introduced code splitting and asset name hashing to utilize long term caching resulting in significant initial load performance increase.
-    - Unified team's development environments by introducing and configuring Docker.
   - company: IS Engineering
     location: Zug, Switzerland
     position: Ruby/JavaScript engineer
@@ -68,25 +65,14 @@ experience:
     - Ruby on Rails
     - AngularJS
     - Vue.js
-    - NodeJS
+    - Node.js
     - PostgreSQL
     - MongoDB
     - Docker
     - HTML/CSS
     description:
     - Designed and implemented distributed, multi factory (glass plants) data analytics system
-      (Docker, PostgreSQL, MongoDB, Node.js, Ruby on Rails, Vue.js, Highcharts),
-      successfully commissioned at plants in Ukraine, Brazil, Turkey and Germany.
-  - company: PGS Software
-    location: Wrocław, Poland
-    position: JavaScript Developer
-    since: "09.2013"
-    to: "12.2013"
-    technologies:
-    - JavaScript
-    - Node.js
-    description:
-    - Automated project's build process by introducing Grunt task runner.
+      successfully commissioned at plants in Ukraine, Brazil, Turkey, and Germany.
   - company: Starware/Sharewise
     location: Wrocław, Poland
     position: Ruby/JavaScript engineer
@@ -100,9 +86,9 @@ experience:
     - PostgreSQL
     - Redis
     description:
-    - Implemented "push" service (Websockets, NodeJS, Redis) for existing Ruby on Rails application.
-    - Moved lagacy front end code from JqueryUI to AngularJS.
-    - Led 3-man team in charge of mobile site version development.
+    - Designed and implemented "push" service for existing Ruby on Rails application.
+    - Migrated lagacy JqueryUI based front-end app to AngularJS.
+    - Led 3-man team in charge of mobile site development.
   - company: CMS Mirage
     location: Wrocław, Poland
     position: Java Developer

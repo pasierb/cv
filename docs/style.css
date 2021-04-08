@@ -4,8 +4,15 @@
 
 body {
   font-family: "Titillium Web", sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
   font-size: 12pt;
   padding: 32pt 8pt;
+}
+
+.profile-photo {
+  width: 70%;
+  border-radius: 50%;
 }
 
 a {
@@ -29,13 +36,13 @@ ul {
 }
 
 section {
-  max-width: 800px;
   margin: 16px auto 16px auto;
   border-bottom: 1px solid #eee;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 section > header {
-  display: inline-block;
   width: 25%;
   padding-right: 4%;
   vertical-align: top;
@@ -45,12 +52,7 @@ section > header {
 }
 
 section > article {
-  display: inline-block;
   width: 70%;
-}
-
-ul.experience-list > li {
-  margin-bottom: 40px;
 }
 
 @media (max-width: 480px) {
