@@ -7,8 +7,11 @@ experience:
     since: "08.2020"
     technologies:
     - TypeScript
+    - React
     - WebdriverIO
     - AWS
+    description:
+    - Implemented internal testing solution for AWS Console teams covering functional, integration and canary testing verticals.
   - company: EF Education First
     location: Zurich, Switzerland
     position: Lead Software Developer
