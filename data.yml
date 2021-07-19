@@ -4,7 +4,7 @@ experience:
   - company: Amazon Web Services
     location: Berlin, Germany
     position: Software Development Engineer
-    since: "08.2020"
+    since: "08/2020"
     technologies:
     - TypeScript
     - React
@@ -15,8 +15,8 @@ experience:
   - company: EF Education First
     location: Zurich, Switzerland
     position: Lead Software Developer
-    since: "07.2019"
-    to: "07.2020"
+    since: "07/2019"
+    to: "07/2020"
     technologies:
     - TypeScript
     - Go
@@ -32,8 +32,8 @@ experience:
   - company: R3PI
     location: Zurich, Switzerland
     position: Software development engineer/Front-end lead
-    since: "10.2018"
-    to: "05.2019"
+    since: "10/2018"
+    to: "05/2019"
     technologies:
     - TypeScript
     - JavaScript
@@ -47,8 +47,8 @@ experience:
   - company: EF Education First
     location: Luzern, Switzerland
     position: Senior Front End Engineer
-    since: "12.2017"
-    to: "09.2018"
+    since: "12/2017"
+    to: "09/2018"
     description:
     - Development of POC E-commerce website.
     - Introduced Dockerized development environment.
@@ -62,8 +62,8 @@ experience:
   - company: IS Engineering
     location: Zug, Switzerland
     position: Ruby/JavaScript engineer
-    since: "01.2014"
-    to: "11.2017"
+    since: "01/2014"
+    to: "11/2017"
     technologies:
     - Ruby on Rails
     - AngularJS
@@ -79,8 +79,8 @@ experience:
   - company: Starware/Sharewise
     location: Wrocław, Poland
     position: Ruby/JavaScript engineer
-    since: "09.2010"
-    to: "08.2013"
+    since: "09/2010"
+    to: "08/2013"
     technologies:
     - Ruby on Rails
     - JavaScript
@@ -95,31 +95,31 @@ experience:
   - company: CMS Mirage
     location: Wrocław, Poland
     position: Java Developer
-    since: "05.2009"
-    to: "08.2010"
+    since: "05/2009"
+    to: "08/2010"
     technologies:
     - Java 6
 
 certificates:
   - title: AWS Certified Solutions Architect - Associate
     issuer: Amazon Web Services
-    issued: "12.2019"
-    expires: "12.2022"
+    issued: "12/2019"
+    expires: "12/2022"
     credentialId: FS7E4PE2HEQ4QR3G
     credentialUrl: https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=V3P97712KJ1EQTWR
   - title: Mobile Web Specialist
     issuer: Google Developers
-    issued: "01.2019"
-    expires: "01.2022"
+    issued: "01/2019"
+    expires: "01/2022"
     credentialId: "12471549"
     credentialUrl: https://www.credential.net/m23rhhsx?key=8f900767955ce28b1273e535a28cab9be368be10bec61e04ed3b00cc31d8dd85
 
 education:
   - school: Higher School of information Technology and Management "COPERNICUS"
     major: CS (incomplete - dropped out during 5th semester to focus on full-time job)
-    since: "10.2007"
-    to: "06.2009"
+    since: "10/2007"
+    to: "06/2009"
   - school: University of Wroclaw
     major: Archeology (incomplete)
-    since: "10.2001"
-    to: "06.2003"
+    since: "10/2001"
+    to: "06/2003"
